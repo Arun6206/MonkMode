@@ -1,10 +1,36 @@
-<img width="870" height="1808" alt="Twilight Mountain Focus Timer" src="https://github.com/user-attachments/assets/e5ca1e3a-d939-4e20-b7f9-36acae9b6e24" />
-<img width="262" height="582" alt="Screenshot 2026-09-29 121441" src="https://github.com/user-attachments/assets/5064e1e7-9ccc-46da-b3d5-d54635a37590" />
-<img width="256" height="582" alt="Screenshot 2026-09-29 121430" src="https://github.com/user-attachments/assets/af719114-07a5-46ef-af09-513e9ac64fd2" />
-<img width="870" height="1808" alt="Purple Progress Analytics Dashboard" src="https://github.com/user-attachments/assets/bd55fa1b-4091-4970-9af7-b5f0f0ca5775" />
-<img width="840" height="1871" alt="MonkMode_ Focus and Discipline Dashboard" src="https://github.com/user-attachments/assets/3274f06b-fb20-4b62-a506-cbbba085d413" />
-<img width="870" height="1808" alt="Monk AI Meditation Coach Interface" src="https://github.com/user-attachments/assets/02231183-dd28-4651-ac34-0ec2695ceb15" />
-<img width="870" height="1808" alt="Dark Purple Productivity Profile Dashboard" src="https://github.com/user-attachments/assets/1935093c-190e-4d7a-b9ab-4f9aec814989" />
+## 📱 Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e5ca1e3a-d939-4e20-b7f9-36acae9b6e24" width="220" alt="Twilight Mountain Focus Timer"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/5064e1e7-9ccc-46da-b3d5-d54635a37590" width="220" alt="Screenshot"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/af719114-07a5-46ef-af09-513e9ac64fd2" width="220" alt="Screenshot"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bd55fa1b-4091-4970-9af7-b5f0f0ca5775" width="220" alt="Purple Progress Analytics Dashboard"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/3274f06b-fb20-4b62-a506-cbbba085d413" width="220" alt="MonkMode Focus and Discipline Dashboard"/>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/02231183-dd28-4651-ac34-0ec2695ceb15" width="220" alt="Monk AI Meditation Coach Interface"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/1935093c-190e-4d7a-b9ab-4f9aec814989" width="220" alt="Dark Purple Productivity Profile Dashboard"/>
+    </td>
+  </tr>
+</table>
 # MonkMode
 
 ### Build Discipline. Improve Focus. Stay Consistent.
