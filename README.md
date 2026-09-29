@@ -91,22 +91,6 @@ Unlike a basic habit tracker, MonkMode analyzes the user's habits, routine, prog
 
   > **MonkMode is not just about tracking what you do — it's about understanding your patterns, identifying where you fall short, and helping you build a better routine.**
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Before running MonkMode, make sure you have:
-
-- Android Studio Ladybug (2024.2.1+) or higher
-- JDK 11
-- Android SDK with API 36
-- A Firebase project
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Arun6206/MonkMode.git
-cd MonkMode
   ## 🛠️ Tech Stack
 
 MonkMode is built using a modern native Android development stack focused on scalability, maintainability, reactive state management, and a clean user experience.
