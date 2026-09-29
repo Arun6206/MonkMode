@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52334022164",
+    "project_id": "monkmode-608c2",
+    "storage_bucket": "monkmode-608c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52334022164:android:89a4d85c00c3cc06bb2101",
+        "android_client_info": {
+          "package_name": "com.example.monkmode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAphL0yAX8rSI36yo06WQk3pDYd13lwTSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
