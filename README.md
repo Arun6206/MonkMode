@@ -3,19 +3,20 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/e5ca1e3a-d939-4e20-b7f9-36acae9b6e24" width="220" alt="Twilight Mountain Focus Timer"/>
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/5064e1e7-9ccc-46da-b3d5-d54635a37590" width="220" alt="Screenshot"/>
-    </td>
-    <td align="center">
       <img src="https://github.com/user-attachments/assets/af719114-07a5-46ef-af09-513e9ac64fd2" width="220" alt="Screenshot"/>
+      
+  </td>
+   <td align="center">
+  <img src="https://github.com/user-attachments/assets/5064e1e7-9ccc-46da-b3d5-d54635a37590" width="220" alt="Screenshot"/>
+    </td>
+    <td align="center">
+  <img src="https://github.com/user-attachments/assets/bd55fa1b-4091-4970-9af7-b5f0f0ca5775" width="220" alt="Purple Progress Analytics Dashboard"/>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/bd55fa1b-4091-4970-9af7-b5f0f0ca5775" width="220" alt="Purple Progress Analytics Dashboard"/>
+      <img src="https://github.com/user-attachments/assets/e5ca1e3a-d939-4e20-b7f9-36acae9b6e24" width="220" alt="Twilight Mountain Focus Timer"/>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/3274f06b-fb20-4b62-a506-cbbba085d413" width="220" alt="MonkMode Focus and Discipline Dashboard"/>
