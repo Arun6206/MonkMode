@@ -38,6 +38,9 @@
 ### Build Discipline. Improve Focus. Stay Consistent.
 
 MonkMode is a modern Android productivity and habit-tracking application designed to help users build consistent habits, improve focus, monitor daily progress, and develop a disciplined lifestyle.
+### 🤖 MONK AI
+We also provide an extra **MONK AI** feature where you can ask about your daily routine, get answers to your doubts, search for information, and much more — all in one place.
+You don't need to switch to another app for searching or getting answers. **MONK AI works similarly to Gemini**, powered by the **Gemini API** integrated directly into the MonkMode app.
 
 Unlike a basic habit tracker, MonkMode analyzes the user's habits, routine, progress, and consistency to identify areas that need improvement. It helps users understand their weaknesses, provides actionable suggestions, and gradually builds a more personalized routine based on their behavior and goals.
 
